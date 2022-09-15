@@ -1,5 +1,5 @@
 {
-  "carwashs": 
+  "carwashs": [
     {
     "id": 1,
     "address": "Street 1",
@@ -17,7 +17,8 @@
     "address": "Street 3",
     "title": "CarWash 3",
     "price": "300"
-  },
+  }
+ ],
   "user": {
     "name": "BotUser 1",
     "phone": "123"
