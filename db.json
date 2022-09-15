@@ -1,18 +1,23 @@
 {
-  "carwashs": [
+  "carwashs": 
     {
     "id": 1,
-    "title": "CarWash 1"
+    "address": "Street 1",
+    "title": "CarWash 1",
+    "price": "100"
   },
   {
     "id": 2,
-    "title": "CarWash 2"
+    "address": "Street 2",
+    "title": "CarWash 2",
+    "price": "200"
   },
   {
     "id": 3,
-    "title": "CarWash 3"
-  }
-  ],
+    "address": "Street 3",
+    "title": "CarWash 3",
+    "price": "300"
+  },
   "user": {
     "name": "BotUser 1",
     "phone": "123"
