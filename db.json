@@ -1,6 +1,7 @@
+ 26 lines (26 sloc) 367 Bytes
 {
-   "carwash": [
-  {
+  "carwashs": [
+    {
     "id": 3,
     "title": "Мойка Дубай",
     "address": "дубай адрес",
@@ -20,5 +21,9 @@
     "cityId": 1,
     "price": 350
   }
-]
+ ],
+  "user": {
+    "name": "BotUser 1",
+    "phone": "123"
+  }
 }
