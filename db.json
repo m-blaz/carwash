@@ -10,9 +10,5 @@
       "cityId": 1,
       "price": 123
     }
-  ],
-  "user": {
-    "name": "BotUser 1",
-    "phone": "123"
-  }
+  ]
 }
